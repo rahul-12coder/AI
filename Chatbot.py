@@ -9,7 +9,7 @@ Username = env_vars.get("Username")
 Assistant = env_vars.get("Assistantname")
 # GorqAPIKey = env_vars.get("GrogAPIKey")
 
-GorqAPIKey = "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"
+GorqAPIKey =
 
 client = Groq(api_key=GorqAPIKey)
 
