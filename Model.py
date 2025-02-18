@@ -5,7 +5,7 @@ from dotenv import dotenv_values
 
 env_vars = dotenv_values(".env")
 
-# CohereAPIKeys = "o1k1V5Q4KiyiQAHDeaUrXvkzw3qXeqcMRYdmX41Q"
+
 
 cohereAPIKey = env_vars.get("CohereAPIKeys")
 
