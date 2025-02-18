@@ -14,7 +14,7 @@ import os
 
 
 env_vars = dotenv_values(".env")
-GroqAPIKey = env_vars.get("GroqAPIKey", "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")
+GroqAPIKey = env_vars.get("GroqAPIKey",() )
 
 classes = ["zCubwf", "hgKElc", "LTKOO", "sY7ric", "Z0LcW", "gsrt ck_bk FzvWsb YwPhnf", "pclqee", "tw-Data-text tw-txt-small tw-ta",
            "IZ6rdc", "O5uR6d LTKOO", "vlzY6d", "webanswers-webanswers_table_webanswers-table", "dDoNo ikb4Bb gsrt", "sXLaOe",
